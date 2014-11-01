@@ -4,6 +4,8 @@
 
 [QUTBib](http://qutbib.com) is a web-based reference generator for [QUT APA](http://www.citewrite.qut.edu.au/cite/qutcite.jsp#apa) and [QUT Harvard](http://www.citewrite.qut.edu.au/cite/qutcite.jsp#harvard) style referencing.
 
+I am no longer actively developing this project, but feel free to submit issues or pull requests.
+
 # License
 
 The MIT License (MIT)
